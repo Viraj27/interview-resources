@@ -47,7 +47,7 @@ Crack the system design interview
 | The System Design Interview for IT Companies | Another Github-based guide for system design interviews.                                                 | [Link](https://github.com/checkcheckzz/system-design-interview)                            |
 | The RADAD framework                          | A good framework for progressing through system design interviews from the Front-end Interview Handbook. | [Link](https://www.frontendinterviewhandbook.com/front-end-system-design/#radad-framework) |
 | 31 system design interview questions         | A good collection of system design interview questions to practice.                                      | [Link](https://igotanoffer.com/blogs/tech/system-design-interviews)                        |
-
+| Gaurav Sen System Design Playlist            | A good playlist for System Design interview questions.                                                   | [Link](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)                        |
 
 ## Technical knowledge interviews
 
